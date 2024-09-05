@@ -73,7 +73,7 @@ Cable amarillo: 12v
 naranja 3,3v 
 azul 12v
 rojo 5v
-
+adasd
 
 2: Motherboard cuando detecta que vienen losfd 5v del poweron, enciende la bios. COnecta los demas componentes. Distribuye los datos a los demas coponentes.
 La mother impone la tecnología, si tengo amd no puedo poner intel
