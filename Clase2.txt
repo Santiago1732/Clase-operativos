@@ -1,0 +1,118 @@
+Windows r- orden directa
+"cmd"
+Levantamos termianl
+
+
+ipconfig : Nos va a dar una serie de datos.
+
+Direccion ipV4: 192.168.2.94 
+
+
+Recurso compartido. (voy a la carpeta 315 del profe)
+
+
+Detro del cmd escribo control y 
+
+
+------
+
+1- BIOS
+para virutalizar no todas las maquinas vienen x defecto para poder virtualizar. (hablando de las pc de casa)
+
+Verificar la BIOS (se encarga de que los componentes esten funcinando)
+
+
+INFORMATICA esta formado por HW y SW
+
+HW(hardware) - SW (Sofware)
+
+Perifericos (auricualres etc, elementos de entrada y salida)
+
+Dentro del SW, lo mas importante es el S.O (sistema operativo) programa que permite la ocmunicacion entre los programas y el hardware
+Click, instruccion al SO y el hardware hace todo lo que tiene que hacer.
+
+
+Dentro de BIOS: 
+1) input
+2) put
+system
+
+
+Hoy x hoy evoluciono, VEFI (la diferencia es que uno es virtual)
+Es un programa que viene dentro del PROM
+
+Alguien dentro de la pc tiene que organizar la electricidad que viene desde tierra.
+Ese elemento es BIOS, que estará viva hasta que la apagues
+
+En la bios hay que buscar algo parecido a Hyper X , que está relacionado con el MICRO y habilitarlo 
+
+CEMOS programa software, "reiniciaste CMOS arreglaste todo"
+la mother guarda el error en la CMOS , al sacar la batería, se reinicia la cmos
+xq la bios testea todo, ve que no tiene error (xq se reinicio la CMOS) y ahi levanta la pc
+
+la bios tiene la informacion de secuencia encendido, y la cmos del hardware que tiene la maquina
+
+Si no se pueden visualizar, hay que ir a la BIOS y habilitar lo que nos pida para visualizar.
+
+-----
+
+
+Arquitectura:
+En arg tenemos 220v
+para fisicos, voltae fuerza para empujar electrones
+corriente: bajo demanda, cantidad de elenctones q pasan x un lugar en un tiempo
+
+(la alterna es positivcay negativa, se apaga y enciende, la directa es una linea)
+
+
+Fuente: encargada de convertir la corriente alterna en directa
+(atras te dice los ampares, y a la atrde tiene una tabla. 
+Voltaje de standby: 5v (cable violeta) (luz pequeña de los monitores etc)
+Voltaje poweron: 5v (cable verde) voltaje que eesta esperando para que cuando toque el boton, tire un circuito a tierra (esos 5v a tierra)
+Cable amarillo: 12v
+naranja 3,3v 
+azul 12v
+rojo 5v
+
+
+2: Motherboard cuando detecta que vienen losfd 5v del poweron, enciende la bios. COnecta los demas componentes. Distribuye los datos a los demas coponentes.
+La mother impone la tecnología, si tengo amd no puedo poner intel
+3:RAM: rAMNDON ACCES MEMORY: Para que todo trabaje, tiene que encargarse desde lo que tenemos. 
+4:MICRO: 
+5 Disco duro: Almacenar informacion
+asdasdasd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
