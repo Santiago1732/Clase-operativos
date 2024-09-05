@@ -77,10 +77,11 @@ rojo 5v
 
 2: Motherboard cuando detecta que vienen losfd 5v del poweron, enciende la bios. COnecta los demas componentes. Distribuye los datos a los demas coponentes.
 La mother impone la tecnología, si tengo amd no puedo poner intel
-3:RAM: rAMNDON ACCES MEMORY: Para que todo trabaje, tiene que encargarse desde lo que tenemos. 
+3:RAM: rAMNDON ACCES MEMORY: Para que todo trabaje, tiene que encargarse desde lo que tenemos. Tener una buena ram, permitira tener mvarios datos 
+al mismo tiempo
 4:MICRO: 
-5 Disco duro: Almacenar informacionasdsa
-asdasdasd
+5 Disco duro: Almacenar informacionas
+
 
 
 
