@@ -79,8 +79,13 @@ rojo 5v
 La mother impone la tecnología, si tengo amd no puedo poner intel
 3:RAM: rAMNDON ACCES MEMORY: Para que todo trabaje, tiene que encargarse desde lo que tenemos. Tener una buena ram, permitira tener mvarios datos 
 al mismo tiempo
-4:MICRO: 
+4:MICRO: Procesa informacion. Vamos a buscar velocidad, y cantidad de nucleos.
+
 5 Disco duro: Almacenar informacionas
+
+Si engo un nucleo que hace 3 operaciones x segundos
+y tengo 2 nucleos que hace 2operaciones x segundos, (este será mas rapido) en unsegundo hace mas operaciones
+
 
 
 
