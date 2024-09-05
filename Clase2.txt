@@ -79,7 +79,7 @@ rojo 5v
 La mother impone la tecnología, si tengo amd no puedo poner intel
 3:RAM: rAMNDON ACCES MEMORY: Para que todo trabaje, tiene que encargarse desde lo que tenemos. 
 4:MICRO: 
-5 Disco duro: Almacenar informacion
+5 Disco duro: Almacenar informacionasdsa
 asdasdasd
 
 
